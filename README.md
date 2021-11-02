@@ -19,7 +19,7 @@ This project was a copy of <a href="https://netflix.com">Netflix<a> home page, d
 # clone the repository
 $ git clone https://github.com/j-rdel/netflix.git
 
-# Move to / of project
+# Move to project
 $ cd netflix
 
 # Install the dependencies
@@ -27,10 +27,10 @@ $ npm install
 # or
 $ yarn install
 
-# Runs the app in the development mode.
+# Start
 $ npm start
 # or
-$ yarn install
+$ yarn start
 
 # Open http://localhost:3000 in your browser.
 
