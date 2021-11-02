@@ -6,7 +6,7 @@ This project was a copy of <a href="https://netflix.com">Netflix<a> home page, d
 
 ------
 
-## Technologys 💻
+## Technologies 💻
 
 - ReactJS
 - Scss
@@ -24,11 +24,15 @@ $ cd netflix
 
 # Install the dependencies
 $ npm install
+# or
+$ yarn install
 
 # Runs the app in the development mode.
 $ npm start
+# or
+$ yarn install
 
-# Open http://localhost:3000 to view it in the browser.
+# Open http://localhost:3000 in your browser.
 
 ```
 ------
